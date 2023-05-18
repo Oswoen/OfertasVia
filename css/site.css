@@ -110,6 +110,8 @@ body {
 .logos-section {
   text-align: center;
   padding: 70px 30px;
+  border-bottom: 1px solid #e4ebf3;
+
 }
 
 .logos-title {
@@ -1518,7 +1520,7 @@ body {
   }
 
   .menu-button.w--open {
-    background-color: #0d41e9;
+    background-color: #4a6cdc;
     border-style: none;
   }
 
@@ -1526,8 +1528,11 @@ body {
     color: #000;
   }
 
+  .iconcopy {
+    color: #ffffff;
+  }
   .nav-menu {
-    background-color: #0d41e9;
+    background-color: #4a6cdc;
     padding: 30px;
   }
 
@@ -1614,8 +1619,6 @@ body {
   }
 
   .header-section-copy {
-    background-color: #fff;
-    background-image: url('../images/asset-7.svg');
     background-size: cover;
     padding-bottom: 80px;
   }
